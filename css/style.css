@@ -399,7 +399,8 @@ header {
 /*  Logo */
 header .logo {
 	float: left;
-	margin-top: 10px;
+  margin-top: 10px;
+  margin-bottom: 10px;
 }
 header .navbar {
 	background: none;
@@ -875,7 +876,7 @@ header.sticky .header-menu {
   margin-top: 0;
 }
 .service-details-tabs .nav-tabs li {
-   width:19%;
+   width:16%;
    background:none;
 }
 .service-details-tabs .nav-tabs li  a {
@@ -2582,7 +2583,7 @@ div.about-faq-wrapper .panel-faq .panel-body {
 ================================================
 */
 .breadcromb-wrapper {
-	background: rgba(0, 0, 0, 0) url("http://via.placeholder.com/1900x280/000/fff") no-repeat fixed top center / cover;
+	background: rgba(0, 0, 0, 0) url("../images/service-details-bg.jpg") no-repeat fixed top center / cover;
 	position: relative;
 	padding: 60px 0 10px;
 	float: left;
@@ -2600,7 +2601,7 @@ div.about-faq-wrapper .panel-faq .panel-body {
 	margin: 0 0 60px;
 }
 .breadcromb-left > h3::before {
-  background: #2d506e;
+  background: #00738E;
   content: "";
   height: 100%;
   left: -10000%;
@@ -2613,7 +2614,7 @@ div.about-faq-wrapper .panel-faq .panel-body {
 	font-size: 30px;
 	text-transform: capitalize;
 	text-align: left;
-	background:#2d506e;
+	background:#00738E;
 	padding:10px 15px;
 	display:inline-block;
 	position:relative;
@@ -2621,7 +2622,7 @@ div.about-faq-wrapper .panel-faq .panel-body {
 }
 .breadcromb-left > h3::after {
   border-right: 54px solid rgba(0, 0, 0, 0);
-  border-top: 54px solid #2d506e;
+  border-top: 54px solid #00738E;
   content: "";
   height: 0;
   position: absolute;
@@ -3632,7 +3633,7 @@ div.title h2 {
 }
 /***** Header Inner ******/	
 header .header-inner {
-	padding: 15px 0 0;
+	padding: 15px 0 15px;
 }
 .affix {
     position:inherit;
