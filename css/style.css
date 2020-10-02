@@ -311,7 +311,7 @@ header {
 }
 /*** Top header add ***/
 .top-header-add:before {
-	background: #98E8FB;
+	background: #f9be4a;
 	content: "";
 	height: 101%;
 	left: -22px;
@@ -321,7 +321,7 @@ header {
 	width: 40px;
 }
 .top-header-add {
-	background: #98E8FB;
+	background: #f9be4a;
 	padding: 6px 0;
 	width: 100%;
 	display: inline-block;
@@ -329,7 +329,7 @@ header {
 	position: relative;
 }
 .top-header-add:after {
-	background: #98E8FB;
+	background: #f9be4a;
 	content: "";
 	height: 101%;
 	right: -22px;
@@ -714,7 +714,7 @@ header.sticky .header-menu {
   right: 0;
   top: 0px;
   width: 2px;
-  background:#c29000;
+  background:#f9be4a;
 }
 .cta-inner {
   border-radius: 4px;
@@ -748,7 +748,7 @@ header.sticky .header-menu {
 .cta-btn a {
   font-size:19px;
   color:#00738E;
-  background:#98E8FB;
+  background:#f9be4a;
   padding:15px 40px;
   display:inline-block;
   border-radius:30px;
@@ -3230,9 +3230,9 @@ div.about-faq-wrapper .panel-faq .panel-body {
 ================================================
 */
 .footer-wrapper {
- background:#00738E;
+ background:#98E8FB;
  float:left;
- padding:0 0 80px;
+ padding:35px 0 80px;
  width:100%;
 }
 .search-wrapper {
@@ -3291,7 +3291,7 @@ footer .flogo {
   font-size: 40px;
 }
 .intro .intro-content {
-  color: #fff;
+  color: #00738E;
   margin-top: 15px;
 }
 footer h4::before {
@@ -3304,7 +3304,7 @@ footer h4::before {
   width: 50px;
 }
 footer h4 {
-  color: #fff;
+  color: #00738E;
   font-size: 18px;
   font-weight: 700;
   margin: 26px 0 28px;
@@ -3323,29 +3323,29 @@ footer ul li:before {
    padding-right: 6px;
    vertical-align: middle;
    content: "\f105";
-   color:#98E8FB;
+   color:#00738E;
 }
 footer ul li {
   display:black;
   list-style:none;
   padding:0 0 10px 0;
-  color:#fff;
+  color:#00738E;
   }
 footer ul li  a {
-  color:#fff;
+  color:#00738E;
   font-size:15px;
 }  
 footer ul li  a:hover, footer ul li  a:focus {
-  color:#98E8FB;
+  color:#fff;
 }
 .address li {
-  color: #fff;
+  color: #00738E;
   margin-bottom: 15px;
   padding:0;
   padding-right: 30px;
 }
 .address li span{
-  color:#98E8FB;
+  color:#00738E;
   font-size:20px;
   margin:0 8px 0 0;
 }
@@ -3353,7 +3353,7 @@ footer .address ul li::before {
   display:none;
 }
 .copyright-wrapper {
-  background: #002444;
+  background: #00738E;
   float: left;
   padding: 15px 0;
   width: 100%;
@@ -3387,7 +3387,7 @@ footer .address ul li::before {
 /** Footer Cta Wrapper **/
 .footer-cta-wrapper {
   width:100%;
-  background:#002444;
+  background:#00738E;
   border-radius:50px;
   padding:30px;
   float:left;
