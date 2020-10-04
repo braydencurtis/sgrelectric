@@ -3292,11 +3292,11 @@ footer .flogo {
   font-size: 40px;
 }
 .intro .intro-content {
-  color: #00738E;
+  color: #000;
   margin-top: 15px;
 }
 footer h4::before {
-  background: #98E8FB;
+  background: #000;
   bottom: -12px;
   content: "";
   height: 1px;
@@ -3305,7 +3305,7 @@ footer h4::before {
   width: 50px;
 }
 footer h4 {
-  color: #00738E;
+  color: #000;
   font-size: 18px;
   font-weight: 700;
   margin: 26px 0 28px;
@@ -3324,23 +3324,23 @@ footer ul li:before {
    padding-right: 6px;
    vertical-align: middle;
    content: "\f105";
-   color:#00738E;
+   color:#000;
 }
 footer ul li {
   display:black;
   list-style:none;
   padding:0 0 10px 0;
-  color:#00738E;
+  color:#000;
   }
 footer ul li  a {
-  color:#00738E;
+  color:#000;
   font-size:15px;
 }  
 footer ul li  a:hover, footer ul li  a:focus {
   color:#fff;
 }
 .address li {
-  color: #00738E;
+  color: #000;
   margin-bottom: 15px;
   padding:0;
   padding-right: 30px;
